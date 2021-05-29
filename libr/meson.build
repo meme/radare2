@@ -524,6 +524,7 @@ install_headers(include_files, install_dir: r2_incdir)
 
 r_util_files = [
   'include/r_util/pj.h',
+  'include/r_util/r_arsc.h',
   'include/r_util/r_ascii_table.h',
   'include/r_util/r_asn1.h',
   'include/r_util/r_assert.h',
